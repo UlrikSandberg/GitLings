@@ -1,0 +1,1 @@
+Vi skulle gerne have noget logging i dett her repo
